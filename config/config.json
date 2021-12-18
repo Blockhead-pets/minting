@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xfF459387eeCAD5AcBf50f862a59811b6CB2083c7",
+  "SCAN_LINK": "https://polygonscan.com/address/0xff459387eecad5acbf50f862a59811b6cb2083c7",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Blockhead Pets",
+  "SYMBOL": "Blockhead Pet",
+  "MAX_SUPPLY": 3120,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/blockhead-pets",
+  "SHOW_BACKGROUND": true
+}
